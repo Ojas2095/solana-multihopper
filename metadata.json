@@ -1,0 +1,29 @@
+{
+  "bounty_id": "superteam-solana-multihopper",
+  "track": "Superteam Earn MultiHopper Challenge",
+  "project_name": "MultiHopper",
+  "version": "1.0.0",
+  "candidate": {
+    "name": "Ojaswee Upadhyay",
+    "role": "Co-Founder & CTO @ NaviiGo",
+    "email": "ojaswee2095@gmail.com",
+    "portfolio": "https://ojaswee.vercel.app",
+    "github": "https://github.com/Ojas2095"
+  },
+  "tech_stack": ["Solana Web3.js", "Jupiter v6 API", "TypeScript", "Next.js 14", "Tailwind CSS", "Vitest"],
+  "features": [
+    "Directed Graph Multi-Hop Routing across Raydium, Orca, and Meteora",
+    "Constant Product AMM Invariant Formula Calculations (x * y = k)",
+    "Jupiter v6 API Integration for Direct Route Comparison",
+    "Preflight Transaction Simulation and Compute Unit Profiling",
+    "Commander CLI & Next.js 14 App Router UI with Dynamic Hop Diagrams"
+  ],
+  "test_results": {
+    "test_runner": "vitest",
+    "total_tests": 36,
+    "passed": 36,
+    "pass_rate": "100%"
+  },
+  "submission_status": "ready_for_live_entry",
+  "timestamp": "2026-10-31T16:40:00Z"
+}
