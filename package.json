@@ -5,6 +5,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "dev": "tsx src/web/server.ts",
+    "serve:ui": "tsx src/web/server.ts",
     "build": "tsc",
     "test": "vitest run",
     "cli": "tsx src/cli/index.ts",
